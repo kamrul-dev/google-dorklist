@@ -1,0 +1,36 @@
+Noredirect Dorks
+Modify Dorks for best results.
+==============================================
+
+inurl:admin/login.php
+Intitle: "index" of "admin" site:.in
+Intitle: "index" of "admin" site:.net
+Intitle: "index" of "admin" site:.org
+Intitle: "index" of "admin" site:.co.in
+Intitle: "index" of "admin" site:.co.uk
+Intitle: "index" of "admin" site:.co.pk
+Intitle: "index" of "admin" site:.ca
+Intitle: "index" of "admin" "doc" site:.in
+Intitle: "index" of "admin" "doc" site:.com
+Intitle: "index" of "admin" "doc" site:.net
+Intitle: "index" of "admin" "doc" site:.org
+Intitle: "index" of "admin" "doc" site:.co.in
+Intitle: "index" of "admin" "doc" site:.co.uk
+Intitle: "index" of "admin" "doc" site:.co.pk
+Intitle: "index" of "admin" "doc" site:.ca
+Intitle: "index" of "admin" "image" site:.com
+Intitle: "index" of "admin" "photos" site:.com
+Intitle: "index" of "admin" "medicine" site:.com
+Intitle: "index" of "admin" "books" site:.com
+Intitle: "index" of "admin" "cart" site:.com
+Intitle: "index" of "admin" "jpg" site:.com
+Intitle: "index" of "admin" "gallery" site:.com
+Intitle: "index" of "admin" site:co.pk
+Intitle: "index" of "admin" "doc" site:.org
+Intitle: "index" of "admin" "image" site:.com
+Intitle: "index" of "admin" "photos" site:.com
+Intitle: "index" of "admin" "medicine" site:.com
+Intitle: "index" of "admin" "books" site:.com
+Intitle: "index" of "admin" "cart" site:.com
+Intitle: "index" of "admin" "jpg" site:.com
+Intitle: "index" of "admin" "gallery" site:.com
